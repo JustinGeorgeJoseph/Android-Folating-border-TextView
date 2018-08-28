@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatingDashBorderTextView">
+        <attr name="dashColor" format="color" />
+        <attr name="dashWidth" format="dimension" />
+        <attr name="dashDistance" format="dimension" />
+        <attr name="dashLength" format="dimension" />
+        <attr name="floatDash" format="boolean" />
+        <attr name="floatClockWise" format="boolean"/>
+    </declare-styleable>
+</resources>
