@@ -1,6 +1,6 @@
 # FloatingDashBorderTextView
 
-   This is a custom TextView with floating dash border, all other default TextView features are available. The user can customize the dash color, dash width, dash length, the distance between dashes, floating direction(Clock, Anti-Clock wise), is floating required.
+This is a custom TextView with floating dash border, all other default TextView features are available. The user can customize the dash color, dash width, dash length, the distance between dashes, floating direction(Clock, Anti-Clock wise), is floating required.
       
 ## Usage
 
