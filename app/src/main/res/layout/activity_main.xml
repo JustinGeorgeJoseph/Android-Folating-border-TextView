@@ -34,7 +34,7 @@
     <com.justin.floatingdashbordertextview.FloatingDashBorderTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!this is good to see you\ngood thandks"
+        android:text="Hello World!"
         app:dashWidth="2dp"
         app:dashLength="20dp"
         app:dashDistance="3dp"
